@@ -11,6 +11,7 @@ def calculate_grade(marks):
     else:
         return "F"
 
+
 print("Welcome to Student Grading System!")
 
 # List of Students (Dictionary for each student)
@@ -40,7 +41,8 @@ print("\n--- Student Results ---")
 index = 0
 while index < len(students):
     student = students[index]
-    print(f"Name: {student['name']}, Marks: {student['marks']}, Grade: {student['grade']}")
+    print(
+        f"Name: {student['name']}, Marks: {student['marks']}, Grade: {student['grade']}")
     index += 1
 
 # Using Set for unique grades
