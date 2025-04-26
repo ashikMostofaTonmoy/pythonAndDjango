@@ -1,0 +1,21 @@
+Date,Type,Category,Amount,Description
+2023-05-01,Income,Salary,5000.00,Monthly salary
+2023-05-02,Expense,Groceries,120.50,Weekly grocery shopping
+2023-05-05,Expense,Rent,1200.00,May rent payment
+2023-05-10,Expense,Utilities,85.75,Electricity bill
+2023-05-15,Expense,Dining,45.30,Dinner with friends
+2023-05-20,Income,Freelance,300.00,Website design project
+2023-05-22,Expense,Transportation,65.00,Fuel
+2023-05-25,Expense,Entertainment,25.99,Movie tickets
+2023-05-28,Expense,Groceries,95.45,Weekly grocery shopping
+2023-05-30,Expense,Healthcare,150.00,Doctor's appointment
+2023-06-01,Income,Salary,5000.00,Monthly salary
+2023-06-03,Expense,Groceries,110.25,Weekly grocery shopping
+2023-06-05,Expense,Rent,1200.00,June rent payment
+2023-06-08,Income,Bonus,500.00,Performance bonus
+2023-06-10,Expense,Utilities,78.50,Electricity bill
+2023-06-12,Expense,Dining,32.75,Lunch with colleagues
+2023-06-15,Expense,Shopping,120.00,New clothes
+2023-06-18,Expense,Transportation,60.00,Fuel
+2023-06-20,Expense,Groceries,105.80,Weekly grocery shopping
+2023-06-25,Expense,Entertainment,45.00,Concert tickets 
